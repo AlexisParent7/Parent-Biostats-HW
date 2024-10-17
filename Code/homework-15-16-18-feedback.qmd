@@ -1,0 +1,33 @@
+---
+title: "homework feedback"
+format: html
+editor: visual
+---
+
+## Homework Feedback
+
+### Homework 15
+
+I don't see a homework-15 in your homework repository so I have to give a score of 0. I will say that Homework 15 is one of the more important that we'll do, so please make sure to submit it. It is really essential.
+
+### Homework 16
+
+As noted in the announcement email that I sent around earlier today, I don't have your data in a Data folder within your project. It is **essential** that you have a complete project repository including all data in the data folder to follow a reproducible workflow. You should be using the `here` package and hard-coding your data upload. If you look at line18 of your file where you read in the data, you can see that it is a folder on your desktop that contains the data.
+
+I really need you to make sure you are doing this correctly. If at any time you are stuck or confused about the code, please please ask a question during class or see me outside of class so that you can stay on top of the material.
+
+Your code in lines 43 to 64 is not going to run properly because you aren't searching for things within your `which` function properly. I can't imagine that this code ran when you did this as the assignment. It looks like you worked with Addie on this assignment, as you each have code in lines 69 to 76 that are very similar and that are incorrect as a way of working. If you had a data frame with 10000 rows, there is no way you could go through, as you did on line 69, and look at the numbers (95 ,95, 70, 50) and input them by hand.
+
+The point of this homework was to reinforce work that you did in Homework 15, but since you didn't do homework 15, your code does not reflect those methods. Please make sure to do homework 15 and to see (and make sure you understand) the key for Homework 16 and then see me with any additional questions.
+
+Score = 0.5
+
+### Homework 18
+
+Like with Homework 16, you do not have the data in your data folder so I cannot run your code. I can thus only give you half credit on the homework. It looks correct.
+
+### Other
+
+I'm not sure if this is your first time taking a class that involves coding, but it is really important to stay on top of the methods we are learning. Know that I am available to help, but I can't if you don't reach out.
+
+Also, I updated your .gitignore file - please make sure to bring those changes into main by accepting the pull request.
